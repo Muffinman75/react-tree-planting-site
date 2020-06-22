@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# react-tree-planting-site
-=======
 # React-tree-planting-site
 
 ### Development
@@ -10,4 +7,3 @@ npm install
 npm start
 ```
 
->>>>>>> dev
